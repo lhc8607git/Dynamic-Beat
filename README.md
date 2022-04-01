@@ -29,7 +29,7 @@
 - Javazoom [MP3 library]
 
 ## ⚙️ Window Application 개발 
-- Thread 기반 구조 설계 및 개발 (Thread : Music/Block=Note/Game)
+- Thread 기반 구조 설계 및 개발 (Thread : Music/Block->Note(변경)/Game)
 - 게임 구조 설계 및 개발
 - GUI 개발, 음원 적용
 
