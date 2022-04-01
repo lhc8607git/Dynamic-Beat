@@ -19,6 +19,9 @@
 ## 😁 인원
 - 2명
 
+## 🔨 Language
+- Java
+
 ## 🛠 Tool
 - IDE [Eclipse]
 
